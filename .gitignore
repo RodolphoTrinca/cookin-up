@@ -27,6 +27,8 @@ coverage
 *.sln
 *.sw?
 
+*.Identifier
+
 *.tsbuildinfo
 
 .DS_Store
