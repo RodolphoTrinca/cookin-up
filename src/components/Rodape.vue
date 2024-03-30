@@ -1,6 +1,6 @@
 <template>
   <footer class="rodape paragrafo">
-    Desenvolvido por Rodolpho Trinca | 2024 - Projeto fictício sem fins comerciais.
+    Desenvolvido por Alura | 2023 - Projeto fictício sem fins comerciais.
   </footer>
 </template>
 
